@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128005874721",
+    "project_id": "adsologin-28c8f",
+    "storage_bucket": "adsologin-28c8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128005874721:android:038ffcf39a41ad312c2f60",
+        "android_client_info": {
+          "package_name": "com.sena.adsologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4AlszVc915xdW26tovdbViXzpH5yCGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
